@@ -18,7 +18,7 @@
 
 .
 
-##### All main types of classes are to be seperated into sub modules as per type
+##### All main types of classes are to be separated into sub modules as per type
 Eg
 * src/com.cybermelon.turntup/ListAdapters
   * MainViewListAdapter.java
